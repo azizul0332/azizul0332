@@ -68,7 +68,9 @@ Here are some of the tools I have experience with, categorized by their function
 <img src="https://img.shields.io/badge/-Networking%20Essentials-0052CC?&style=for-the-badge&logo=Cisco&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-29A0D8?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Splunk%20Core%20User-F69E1D?&style=for-the-badge&logo=Splunk&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+- [Microsoft Power BI Data Analyst](https://www.coursera.org/share/your_power_bi_link)  
+  <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI%20Data%20Analyst-6A5ACD?&style=for-the-badge&logo=Microsoft-Power-BI&logoColor=white" />  
 </div>
 
 ## Projects
