@@ -64,7 +64,6 @@ Here are some of the tools I have experience with, categorized by their function
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-0052CC?&style=for-the-badge&logo=CompTIA&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Networking%20Essentials-0052CC?&style=for-the-badge&logo=Cisco&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-29A0D8?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Splunk%20Core%20User-F69E1D?&style=for-the-badge&logo=Splunk&logoColor=white" />  
