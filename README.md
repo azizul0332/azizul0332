@@ -40,16 +40,10 @@ Here are some of the tools I have experience with, categorized by their function
 
 ## 🧪 Forensics Tools  
 - **Autopsy**: Digital forensics platform for hard drive analysis.  
-- **Volatility Framework**: Memory forensics and incident response.  
-- **FTK (Forensic Toolkit)**: Digital investigation and analysis.  
 
 ## 📊 SIEM and Log Management Tools  
 - **Splunk**: Data analysis, log monitoring, and SIEM capabilities.  
   
-## 🛡️ Malware Analysis Tools  
-- **Cuckoo Sandbox**: Automated malware analysis.  
-- **IDA Pro**: Disassembler for reverse engineering.  
-- **Ghidra**: Open-source software reverse engineering framework.  
 
 
 ## Certifications
