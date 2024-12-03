@@ -13,7 +13,6 @@ Aspiring cybersecurity analyst seeking to leverage hands-on training and practic
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools and Technologies
@@ -21,9 +20,9 @@ Aspiring cybersecurity analyst seeking to leverage hands-on training and practic
 Here are some of the tools I have experience with, categorized by their functionality:  
 
 ## 🔍 Vulnerability Assessment Tools  
-- **Nmap**: Network discovery and security auditing.  
+- **Nmap**: Network discovery and security auditing.
+- **Acunetix**: Open-source vulnerability scanner.  
 - **Nessus**: Vulnerability scanning and compliance checks.  
-- **OpenVAS**: Open-source vulnerability scanner.  
 
 ## 🛠️ Penetration Testing Tools  
 - **Metasploit Framework**: Exploit development and testing.  
@@ -33,7 +32,6 @@ Here are some of the tools I have experience with, categorized by their function
 ## 🌐 Network Monitoring and Analysis  
 - **Wireshark**: Network packet analyzer for troubleshooting and analysis.  
 - **Snort**: Open-source intrusion detection and prevention system (IDS/IPS).  
-- **Zeek (formerly Bro)**: Network monitoring and forensic investigation.  
 
 ## 🔑 Password and Hash Cracking Tools  
 - **John the Ripper**: Password cracking tool.  
@@ -47,18 +45,11 @@ Here are some of the tools I have experience with, categorized by their function
 
 ## 📊 SIEM and Log Management Tools  
 - **Splunk**: Data analysis, log monitoring, and SIEM capabilities.  
-- **ELK Stack**: Log management and analytics (Elasticsearch, Logstash, Kibana).  
-- **AlienVault OSSIM**: Open-source SIEM solution.  
-
+  
 ## 🛡️ Malware Analysis Tools  
 - **Cuckoo Sandbox**: Automated malware analysis.  
 - **IDA Pro**: Disassembler for reverse engineering.  
 - **Ghidra**: Open-source software reverse engineering framework.  
-
-## 💻 Endpoint Protection  
-- **CrowdStrike Falcon**: Endpoint detection and response.  
-- **Carbon Black**: Endpoint security platform.  
-- **ESET Endpoint Security**: Advanced threat protection for endpoints.  
 
 
 ## Certifications
@@ -71,6 +62,4 @@ Here are some of the tools I have experience with, categorized by their function
 <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI%20Data%20Analyst-6A5ACD?&style=for-the-badge&logo=Microsoft-Power-BI&logoColor=white" />  
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
