@@ -9,11 +9,12 @@ Aspiring cybersecurity analyst seeking to leverage hands-on training and practic
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cybersecurity Portfolio Project               | <a href="https://drive.google.com/drive/folders/1eSboTy8xKqANMOePIx12kTLtF5kv-Q3n">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring & Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting & Automation for Threat Mitigation  | SOC Automation Lab|
 
 ## Tools and Technologies
 
